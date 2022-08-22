@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ContactContractsExample</string>
+    <string name="button_save">Save</string>
+    <string name="edittext_hint_name">Name</string>
+    <string name="edittext_hint_phone">Phone</string>
+    <string name="button_show">Show</string>
 </resources>
